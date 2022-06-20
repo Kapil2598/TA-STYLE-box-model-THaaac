@@ -1,0 +1,45 @@
+.box{ border-color: black ;
+    border: 5px solid;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(173, 37, 37);
+}
+T.bo{
+    margin: 1px 100px 150px 300px;
+   border: 7px dashed greenyellow;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(173, 37, 37);
+}
+
+.o{ 
+    margin: 1px 100px 150px 300px;
+    border: 1px solid maroon;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(173, 37, 37);
+
+}
+.x{border: 5px dotted blue;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(173, 37, 37);
+
+    
+}
+.p{margin:1px 10px 20px 30px ;
+     background-color: blueviolet;
+    padding:5%;
+    
+    border-top:20px solid blue;
+    border-left: 20px solid green;
+    border-right: 20px solid gray;
+    border-bottom: 20px solid yellow;
+    width: 600px;
+    height: 600px;
+    background-color: rgb(255, 94, 0);
+    outline-style: solid;
+    outline-color: purple;
+    outline-width: 30px     ;
+    color: aliceblue;
+}
