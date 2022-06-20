@@ -1,0 +1,13 @@
+body{text-align: center;}
+.box{
+   outline: rgb(210, 123, 123) solid 13px;
+    width: 150px;
+    height: 150px;
+    border: 4px solid black;
+    background-color: rgb(145, 187, 212);
+    padding: 13px;
+    margin: 0 auto;
+ }
+.w{ background-color: rgb(130, 211, 149);
+    height: 150px;   
+}
