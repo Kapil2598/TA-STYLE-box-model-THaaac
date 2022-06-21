@@ -11,3 +11,27 @@ body{text-align: center;}
 .w{ background-color: rgb(130, 211, 149);
     height: 150px;   
 }
+hr{width: 500px;
+    border-style: dashed;
+}
+
+p{font-size: 30px;}
+.gray{
+    width: 600px;
+    border: 1px solid gray;
+    margin: 0 auto;
+    font-size: 0;
+}
+ .child{
+    width: 180px;
+    height: 100px;
+    background-color: gray;
+    margin: 10px;
+    display: inline-block;
+ }
+ .c{border: 2px solid black;
+    
+}
+.cd{width: 176px;
+    border: 2px solid black;
+}
